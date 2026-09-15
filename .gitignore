@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+coverage/
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.tsbuildinfo
+.eslintcache
+uploads/
+!uploads/.gitkeep
+# Ephemeral MySQL data used by tests (mysql-memory-server)
+.mysqldata/
+.tmp-mysql/
