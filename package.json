@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-bookshop-mysql",
+  "name": "nodejs-bookshop-ddd-mysql",
   "version": "1.0.0",
   "description": "Bookstore backend API with MySQL (Prisma), auth, RBAC, orders, reviews, and reports",
   "main": "dist/server.js",
